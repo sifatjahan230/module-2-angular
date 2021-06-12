@@ -1,13 +1,6 @@
 (function () {
 'use strict';
 
-/**
-* @author: Ruben Leis
-* Module 2
-*
-*/
-
-
 var toBuyList = [
 	{ name: "choclates", quantity: 20 },
 	{ name: "cookies", quantity: 10 },
